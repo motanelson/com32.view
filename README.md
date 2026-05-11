@@ -1,1 +1,1 @@
-object text file format
+limit check on up and on down
